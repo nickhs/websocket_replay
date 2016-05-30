@@ -1,0 +1,12 @@
+[package]
+name = "websocket_replay"
+version = "0.1.0"
+authors = ["Nick HS <nickhs@umich.edu>"]
+
+[dependencies]
+log = "0.3.6"
+env_logger = "0.3.3"
+ws = "0.4.8"
+docopt = "0.6.80"
+docopt_macros = "0.6.84"
+rustc-serialize = "0.3.19"
